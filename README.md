@@ -29,7 +29,7 @@
 
 
 <div align="center">
-## 🧠 Sobre mí
+🧠 Sobre mí
 
 ```yaml
 alexis:
@@ -72,7 +72,7 @@ alexis:
 
 
 <div align="center">
-## 📊 Estadísticas 
+📊 Estadísticas 
 
 
 <div align="center">
@@ -82,7 +82,7 @@ alexis:
 
 
 <div align="center">
-## 💻 Terminal
+💻 Terminal
 
 <div align="center">
 
@@ -112,7 +112,7 @@ alexis@linux:~$ _
 
 
 <div align="center">
-### 🐧 
+ 🐧 
 
 
 
