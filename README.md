@@ -50,7 +50,7 @@ alexis:
 
 
 <div align="center">
-## 🛠️ Stack
+  🛠️ Stack
 
 <div align="center">
 
